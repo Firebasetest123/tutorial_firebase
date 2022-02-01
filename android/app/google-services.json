@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "496601637186",
-    "project_id": "tutorial-firebase-1c7c2",
-    "storage_bucket": "tutorial-firebase-1c7c2.appspot.com"
+    "project_number": "700306606271",
+    "project_id": "tutorial-firebase-abffe",
+    "storage_bucket": "tutorial-firebase-abffe.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:496601637186:android:86e4e11b70077803af68db",
+        "mobilesdk_app_id": "1:700306606271:android:279d9adc78ff76ccf31e0a",
         "android_client_info": {
           "package_name": "com.example.tutorial_firebase"
         }
       },
       "oauth_client": [
         {
-          "client_id": "496601637186-po4kb41dlafmmeqldgqfatj7kd5tceci.apps.googleusercontent.com",
+          "client_id": "700306606271-h5qneedijh90l5de5bba0257tik7gh96.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAbwwHTh46BWGc-7WL_enWFi4QvL93jO4M"
+          "current_key": "AIzaSyBxdCCiAGfvZ1vKsgqEvN78GrF0UknNh8Y"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "496601637186-po4kb41dlafmmeqldgqfatj7kd5tceci.apps.googleusercontent.com",
+              "client_id": "700306606271-h5qneedijh90l5de5bba0257tik7gh96.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
